@@ -119,7 +119,7 @@ def main():
         title = f"FSM Code 2014, Title {tnum}, {ch_title}"
         fm = ["---", f"title: {yq(title)}", f"identifier: {yq(f'{tnum} F.S.M.C. ' + ch_title.split(' ')[1] if ch_title.upper().startswith('CHAPTER') and len(ch_title.split()) > 1 else sub)}",
               "type: code", "jurisdiction: fm", "language: en", "edition: \"FSM Code 2014 (annotated)\"",
-              f"code_title: {yq(title_line)}", "status: in_force",
+              f"code_title: {yq(title_line)}", "status: " + ("repealed" if re.search(r"repealed", ch_title, re.I) else "in_force"),
               f"source: {yq(urljoin(BASE + 'code/', h))}", f"retrieved: {TODAY}", "---", ""]
         p = os.path.join(OUT, "code", f"title-{tnum:02d}", fname)
         os.makedirs(os.path.dirname(p), exist_ok=True)

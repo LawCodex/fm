@@ -8,7 +8,7 @@ date: 1979-05-10
 status: in_force
 source: "https://www.fsmlaw.org/fsm/constitution/constitution.htm"
 publisher: "FSM Legal Information System (fsmlaw.org)"
-retrieved: 2026-10-13
+retrieved: 2026-10-15
 ---
 # Constitution of the Federated States of Micronesia
 

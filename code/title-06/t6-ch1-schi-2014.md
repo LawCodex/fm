@@ -8,7 +8,7 @@ edition: "FSM Code 2014 (annotated)"
 code_title: "FSMC, TITLE 6."
 status: in_force
 source: "https://www.fsmlaw.org/fsm/code/title06/T6_Ch1_SchI_2014.html"
-retrieved: 2026-10-13
+retrieved: 2026-10-15
 ---
 # FSM Code 2014, Title 6, CHAPTER 1 Process
 

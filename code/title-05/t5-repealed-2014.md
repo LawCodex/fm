@@ -6,9 +6,9 @@ jurisdiction: fm
 language: en
 edition: "FSM Code 2014 (annotated)"
 code_title: "FSMC, TITLE 5. JUDICIARY OF THE TTPI"
-status: in_force
+status: repealed
 source: "https://www.fsmlaw.org/fsm/code/title05/T5_Repealed_2014.html"
-retrieved: 2026-10-13
+retrieved: 2026-10-15
 ---
 # FSM Code 2014, Title 5, TITLE 5 JUDICIARY OF THE TTPI [REPEALED in its entirety by PL 5-135 § 7]
 
